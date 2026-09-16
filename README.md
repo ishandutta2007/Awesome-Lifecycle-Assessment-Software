@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Lifecycle-Assessment-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Lifecycle-Assessment-Software?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Lifecycle-Assessment-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Lifecycle-Assessment-Software?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Lifecycle-Assessment-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Lifecycle-Assessment-Software?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Lifecycle-Assessment-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Lifecycle-Assessment-Software/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Lifecycle-Assessment-Software?style=flat-square" alt="Last Commit" /></a>
@@ -95,7 +95,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. Fork this repository 🍴.
 2. Add your entry to `README.md` in alphabetical or star-sorted order 📝.
-3. Follow the formatting standard (include product/repo name, official link, factual 1-2 sentence description, and pricing/star badge info).
+3. Follow the formatting standard (include product/repo name, official link, factual 1-2 sentence description, and pricing/Stars_Badge info).
 4. For awesome lists inspiration, check out [Awesome Lists](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
 5. Open a Pull Request (PR) with a clear title and description 🚀.
 
